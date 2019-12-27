@@ -4,7 +4,8 @@
  ## How to use - 
  ### 1. Clone the repository to clone:-
  
-a) Clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use    SSH, then click .
+a) Clone the repository using HTTPS, under "Clone with HTTPS", click. To clone the repository using an SSH key, 
+   including a certificate issued by your organization's SSH certificate authority,click Use SSH, then click .
  
 b) Clone URL button.
  
