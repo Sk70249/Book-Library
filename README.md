@@ -14,8 +14,7 @@ c) Open Git Bash
 d) Change the current working directory to the location where you want the cloned directory to be made.
 
 #### Type git clone, and then paste the URL you copied.
-    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-    
+    $ git clone https://github.com/Sk70249/Book-Library    
 #### Press Enter.
 Your local clone will be created.
 #### Now, Run app.py in your PC.
