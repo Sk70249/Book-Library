@@ -20,6 +20,7 @@ Your local clone will be created.
 #### Now, Run app.py in your PC.
 
 ### 2. After this you open https://sqliteonline.com/ on your Web Browser 
+
 #### Run SQL commands on it for further operations for eg. -
     SELECT * FROM books;
     
