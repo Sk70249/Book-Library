@@ -22,7 +22,7 @@ Your local clone will be created.
 ### 2. After this you open https://sqliteonline.com/ on your Web Browser 
 #### Run SQL commands on it for further operations for eg. -
     SELECT * FROM books;
- 
+    
  ## Snapshot
 ![Screenshot (92)](https://user-images.githubusercontent.com/48255425/71517966-78061b80-28d6-11ea-8dd8-9d5c5e446c49.png)
 
