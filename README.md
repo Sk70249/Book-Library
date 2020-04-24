@@ -1,4 +1,4 @@
-# Book Library
+# Book Library &nbsp;&nbsp;[![license](https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg)](https://opensource.org/licenses/MIT)
  Add, delete, list or mark books that you ahve read already of your choice.
 
  ## How to use - 
